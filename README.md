@@ -1,7 +1,7 @@
 __cara installnya seperti biasa, clone repo, masuk ke direktori, lalu npm install__
 ```cmd
-git clone https://github.com/mininxd/base-whatsapp-bot
-cd base-whatsapp-bot
+git clone [https://github.com/flayofficial/newrecode.git]
+cd newrecode
 npm install
 ```
 
@@ -21,6 +21,8 @@ tutor pasang nodeJS terbaru :
 >https://github.com/nodesource/distributions
 
 <hr>
+
+CREATED VANZQ
   
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1280px-Termux.svg.png" alt="termux_logo" width="20"/> Termux :
 khusus untuk user termux, nodejs-nya saya sarankan pakai "nodejs-lts", yaitu versi LongTermSupport
